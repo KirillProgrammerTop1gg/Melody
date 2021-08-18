@@ -49,6 +49,13 @@ body{
     font-size: 14px;
     line-height: 16px;
 }
+.navbar-phone{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #FFF;
+}
 .main{
     max-width: 1280px;
     margin: auto;
@@ -103,11 +110,4 @@ body{
     border: 0px;
     padding: 16px 36px;
     cursor:pointer;
-}
-.navbar-phone{
-    font-weight: 700;
-    font-size: 17px;
-    line-height: 20px;
-    text-decoration: none;
-    color: #FFF;
 }
