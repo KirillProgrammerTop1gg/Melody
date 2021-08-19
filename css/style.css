@@ -74,7 +74,7 @@ body{
     opacity: 0;
     cursor: pointer;
 }
-.home-img path:hover{
+path.curFloor{
     opacity: 1;
 }
 .counter-group{
