@@ -101,6 +101,14 @@ body{
     font-size: 124px;
     margin-top:10px;
 }
+.button{
+    background: #3596F5;
+    color: #fff;
+    border-radius: 6px;
+    border: 0px;
+    padding: 16px 36px;
+    cursor:pointer;
+}
 .modal{
     position: fixed;
     left: 0px;
@@ -195,12 +203,4 @@ path.curFloor{
 .flh{
     color: #3596F5;
     text-decoration: underline;
-}
-.button{
-    background: #3596F5;
-    color: #fff;
-    border-radius: 6px;
-    border: 0px;
-    padding: 16px 36px;
-    cursor:pointer;
 }
